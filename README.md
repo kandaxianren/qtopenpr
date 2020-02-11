@@ -1,3 +1,5 @@
 # qtopenpr
+```sh
 qmake
 make
+```
