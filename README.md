@@ -1,1 +1,3 @@
 # qtopenpr
+qmake
+make
